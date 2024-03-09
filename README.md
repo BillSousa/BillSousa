@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BillSousa
+- 👋 Hi, I’m @Bear
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ...
