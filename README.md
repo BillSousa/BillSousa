@@ -1,8 +1,8 @@
-# - 🐻‍❄️ Hi, I’m @Bear  👋
-##- 👀 I’m interested in Data Science
-##- 🌱 I’m currently learning ML, and working on pybear constantly!
-##- 💞️ I’m looking to collaborate on ...
-##- 📫 How to reach me --- WKSJR99@msn.com
+#  - 🐻‍❄️ Hi, I’m @Bear  👋
+## - 👀 I’m interested in Data Science
+## - 🌱 I’m currently learning ML, and working on pybear constantly!
+## - 💞️ I’m looking to collaborate on ...
+## - 📫 How to reach me --- WKSJR99@msn.com
 
 <!---
 BillSousa/BillSousa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
