@@ -1,6 +1,9 @@
 #  - 🐻‍❄️ Hi, I’m @Bear  👋
+
+#  - Checkout PylarBear/pybear
+
 ## - 👀 I’m interested in Data Science
-## - 🌱 I’m currently learning ML, and working on pybear constantly!
+## - 🌱 I’m currently learning ML, and working on pybear constantly
 ## - 💞️ I’m looking to collaborate on ...
 ## - 📫 How to reach me --- WKSJR99@msn.com
 
