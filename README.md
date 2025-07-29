@@ -3,7 +3,7 @@
 #  - 🚀 Checkout PylarBear/pybear
 
 ## - 👀 I’m interested in Data Science
-## - 🌱 I’m currently working on pybear constantly
+## - 🌱 I’m currently maintaining pybear
 ## - 💞️ I’m looking to collaborate on ...
 ## - 📫 How to reach me --- WKSJR99@msn.com, or in the Discussion section in pybear
 
