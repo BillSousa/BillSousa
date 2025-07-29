@@ -1,7 +1,6 @@
 #  - 🐻‍❄️ Hi, I’m @Bear  👋
 
-#  - 🚀 Checkout PylarBear/pybear
-
+#  - 🚀 Checkout [PylarBear/pybear](https://github.com/PylarBear/pybear)
 ## - 👀 I’m interested in Data Science
 ## - 🌱 I’m currently maintaining pybear
 ## - 💞️ I’m looking to collaborate on ...
