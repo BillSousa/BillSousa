@@ -1,5 +1,5 @@
 #  - 🐻‍❄️ Hi, I’m @Bear  👋
-#  - 🚀 Engineer - 🖩 Data Analyst - 💻 Python Developer -
+#  🚀 Engineer 🖩 Data Analyst 💻 Python Developer 🐍
 ##  - ✅ Checkout [PylarBear/pybear](https://github.com/PylarBear/pybear)
 ## - Visit my [online resume]( https://bill-sousa-resume.readthedocs.io/en/latest/) to learn more about me
 ## - 📫 Reach me --- WKSJR99@msn.com, or in the Discussion section in pybear
