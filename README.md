@@ -1,10 +1,8 @@
 #  - 🐻‍❄️ Hi, I’m @Bear  👋
-
-#  - 🚀 Checkout [PylarBear/pybear](https://github.com/PylarBear/pybear)
-## - 👀 I’m interested in Data Science
-## - 🌱 I’m currently maintaining pybear
-## - 💞️ I’m looking to collaborate on ...
-## - 📫 How to reach me --- WKSJR99@msn.com, or in the Discussion section in pybear
+#  - 🚀 Engineer - 🖩 Data Analyst - 💻 Python Developer -
+##  - ✅ Checkout [PylarBear/pybear](https://github.com/PylarBear/pybear)
+## - Visit my [online resume]( https://bill-sousa-resume.readthedocs.io/en/latest/) to learn more about me
+## - 📫 Reach me --- WKSJR99@msn.com, or in the Discussion section in pybear
 
 <!---
 BillSousa/BillSousa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
